@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Vehicle Homepage
+                    Laravel Vehicle
                 </div>
 
                 <div class="links">

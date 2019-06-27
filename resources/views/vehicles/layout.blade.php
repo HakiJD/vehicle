@@ -16,7 +16,10 @@
                 src="{{asset("images/logo.png")}}" alt="Logo"></a><br>Vehicle List
     </div>-->
 
-    @yield('content')
+    <main class="py-5">
+          @yield('content')
+    </main>
+      
 </div>
 
 </body>
